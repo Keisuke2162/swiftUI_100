@@ -14,6 +14,7 @@
 		339E836E29F27C7900614D32 /* swiftUI_100Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339E836D29F27C7900614D32 /* swiftUI_100Tests.swift */; };
 		339E837829F27C7900614D32 /* swiftUI_100UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339E837729F27C7900614D32 /* swiftUI_100UITests.swift */; };
 		339E837A29F27C7900614D32 /* swiftUI_100UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339E837929F27C7900614D32 /* swiftUI_100UITestsLaunchTests.swift */; };
+		339E838729F2813700614D32 /* swiftUI001.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339E838629F2813700614D32 /* swiftUI001.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		339E837329F27C7900614D32 /* swiftUI_100UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftUI_100UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		339E837729F27C7900614D32 /* swiftUI_100UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUI_100UITests.swift; sourceTree = "<group>"; };
 		339E837929F27C7900614D32 /* swiftUI_100UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUI_100UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		339E838629F2813700614D32 /* swiftUI001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUI001.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				339E835C29F27C7800614D32 /* swiftUI_100App.swift */,
 				339E835E29F27C7800614D32 /* ContentView.swift */,
 				339E836029F27C7800614D32 /* Assets.xcassets */,
+				339E838629F2813700614D32 /* swiftUI001.swift */,
 				339E836229F27C7900614D32 /* Preview Content */,
 			);
 			path = swiftUI_100;
@@ -259,6 +262,7 @@
 			files = (
 				339E835F29F27C7800614D32 /* ContentView.swift in Sources */,
 				339E835D29F27C7800614D32 /* swiftUI_100App.swift in Sources */,
+				339E838729F2813700614D32 /* swiftUI001.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
