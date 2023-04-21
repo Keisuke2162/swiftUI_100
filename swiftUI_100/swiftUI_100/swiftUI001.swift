@@ -1,5 +1,5 @@
 //
-//  swiftUI_001.swift
+//  swiftUI001.swift
 //  swiftUI_100
 //
 //  Created by Keisuke Ueda on 2023/04/21.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct swiftUI_001: View {
+struct swiftUI001: View {
     var body: some View {
         Image("icon")
             .resizable()
@@ -19,6 +19,6 @@ struct swiftUI_001: View {
 
 struct swiftUI_001_Previews: PreviewProvider {
     static var previews: some View {
-        swiftUI_001()
+        swiftUI001()
     }
 }
