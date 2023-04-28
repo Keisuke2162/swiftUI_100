@@ -96,6 +96,7 @@
 		339E835B29F27C7800614D32 /* swiftUI_100 */ = {
 			isa = PBXGroup;
 			children = (
+				33B9356E29FB9A140091FFB7 /* Tutorial */,
 				339E835C29F27C7800614D32 /* swiftUI_100App.swift */,
 				339E835E29F27C7800614D32 /* ContentView.swift */,
 				339E836029F27C7800614D32 /* Assets.xcassets */,
@@ -128,6 +129,13 @@
 				339E837929F27C7900614D32 /* swiftUI_100UITestsLaunchTests.swift */,
 			);
 			path = swiftUI_100UITests;
+			sourceTree = "<group>";
+		};
+		33B9356E29FB9A140091FFB7 /* Tutorial */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Tutorial;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
