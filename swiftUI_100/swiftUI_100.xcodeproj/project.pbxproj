@@ -10,6 +10,7 @@
 		33276EDA2A175DD500E0BE76 /* Lesson12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276ED92A175DD500E0BE76 /* Lesson12.swift */; };
 		33276EDC2A17616700E0BE76 /* Lesson13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDB2A17616700E0BE76 /* Lesson13.swift */; };
 		33276EDE2A1762F600E0BE76 /* Lesson14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDD2A1762F600E0BE76 /* Lesson14.swift */; };
+		33276EE02A1766E000E0BE76 /* Lesson15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDF2A1766E000E0BE76 /* Lesson15.swift */; };
 		3382F2992A0E2B830023086D /* Lesson8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3382F2982A0E2B830023086D /* Lesson8.swift */; };
 		3382F29B2A0E2DBD0023086D /* Lesson9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3382F29A2A0E2DBD0023086D /* Lesson9.swift */; };
 		3382F29D2A0E30A00023086D /* Lesson10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3382F29C2A0E30A00023086D /* Lesson10.swift */; };
@@ -51,6 +52,7 @@
 		33276ED92A175DD500E0BE76 /* Lesson12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12.swift; sourceTree = "<group>"; };
 		33276EDB2A17616700E0BE76 /* Lesson13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13.swift; sourceTree = "<group>"; };
 		33276EDD2A1762F600E0BE76 /* Lesson14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14.swift; sourceTree = "<group>"; };
+		33276EDF2A1766E000E0BE76 /* Lesson15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson15.swift; sourceTree = "<group>"; };
 		3382F2982A0E2B830023086D /* Lesson8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson8.swift; sourceTree = "<group>"; };
 		3382F29A2A0E2DBD0023086D /* Lesson9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson9.swift; sourceTree = "<group>"; };
 		3382F29C2A0E30A00023086D /* Lesson10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson10.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				33276ED92A175DD500E0BE76 /* Lesson12.swift */,
 				33276EDB2A17616700E0BE76 /* Lesson13.swift */,
 				33276EDD2A1762F600E0BE76 /* Lesson14.swift */,
+				33276EDF2A1766E000E0BE76 /* Lesson15.swift */,
 			);
 			path = swiftUI_100;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				33276EDE2A1762F600E0BE76 /* Lesson14.swift in Sources */,
 				33B9357429FB9DC90091FFB7 /* Lesson4.swift in Sources */,
 				3382F29F2A0E32E30023086D /* Lesson11.swift in Sources */,
+				33276EE02A1766E000E0BE76 /* Lesson15.swift in Sources */,
 				339E835F29F27C7800614D32 /* ContentView.swift in Sources */,
 				33B9357829FBA08A0091FFB7 /* Lesson6.swift in Sources */,
 				33B9357229FB9C9E0091FFB7 /* Lesson3.swift in Sources */,
