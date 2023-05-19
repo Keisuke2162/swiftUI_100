@@ -5,6 +5,8 @@
 //  Created by Keisuke Ueda on 2023/05/12.
 //
 
+// リストを選択して画面遷移
+
 import SwiftUI
 
 struct Lesson11: View {

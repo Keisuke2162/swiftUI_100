@@ -5,6 +5,8 @@
 //  Created by Keisuke Ueda on 2023/05/19.
 //
 
+// NavigationBarのBackボタン非表示
+
 import SwiftUI
 
 struct Lesson12: View {
