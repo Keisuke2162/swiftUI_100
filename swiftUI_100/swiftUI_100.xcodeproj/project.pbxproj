@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3307EF552A4ECA6500DB33EB /* Lesson29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3307EF542A4ECA6500DB33EB /* Lesson29.swift */; };
 		33276EDA2A175DD500E0BE76 /* Lesson12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276ED92A175DD500E0BE76 /* Lesson12.swift */; };
 		33276EDC2A17616700E0BE76 /* Lesson13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDB2A17616700E0BE76 /* Lesson13.swift */; };
 		33276EDE2A1762F600E0BE76 /* Lesson14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDD2A1762F600E0BE76 /* Lesson14.swift */; };
@@ -60,6 +61,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3307EF542A4ECA6500DB33EB /* Lesson29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson29.swift; sourceTree = "<group>"; };
 		33276ED92A175DD500E0BE76 /* Lesson12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12.swift; sourceTree = "<group>"; };
 		33276EDB2A17616700E0BE76 /* Lesson13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13.swift; sourceTree = "<group>"; };
 		33276EDD2A1762F600E0BE76 /* Lesson14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14.swift; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				33A1FA782A3C4F5F00A90F64 /* Lesson25.swift */,
 				33A1FA7A2A3C543600A90F64 /* Lesson26.swift */,
 				338697232A458FB3001B37B4 /* Lesson27.swift */,
+				3307EF542A4ECA6500DB33EB /* Lesson29.swift */,
 			);
 			path = swiftUI_100;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				339E838729F2813700614D32 /* swiftUI001.swift in Sources */,
 				3382F29B2A0E2DBD0023086D /* Lesson9.swift in Sources */,
 				336DC3BC2A331F360030E066 /* Lesson23CardView.swift in Sources */,
+				3307EF552A4ECA6500DB33EB /* Lesson29.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
