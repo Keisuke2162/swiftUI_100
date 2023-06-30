@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3307EF552A4ECA6500DB33EB /* Lesson29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3307EF542A4ECA6500DB33EB /* Lesson29.swift */; };
 		3307EF572A4ECBF700DB33EB /* Lesson30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3307EF562A4ECBF700DB33EB /* Lesson30.swift */; };
+		3307EF592A4ECDE600DB33EB /* Lesson31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3307EF582A4ECDE600DB33EB /* Lesson31.swift */; };
 		33276EDA2A175DD500E0BE76 /* Lesson12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276ED92A175DD500E0BE76 /* Lesson12.swift */; };
 		33276EDC2A17616700E0BE76 /* Lesson13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDB2A17616700E0BE76 /* Lesson13.swift */; };
 		33276EDE2A1762F600E0BE76 /* Lesson14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33276EDD2A1762F600E0BE76 /* Lesson14.swift */; };
@@ -64,6 +65,7 @@
 /* Begin PBXFileReference section */
 		3307EF542A4ECA6500DB33EB /* Lesson29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson29.swift; sourceTree = "<group>"; };
 		3307EF562A4ECBF700DB33EB /* Lesson30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson30.swift; sourceTree = "<group>"; };
+		3307EF582A4ECDE600DB33EB /* Lesson31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson31.swift; sourceTree = "<group>"; };
 		33276ED92A175DD500E0BE76 /* Lesson12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12.swift; sourceTree = "<group>"; };
 		33276EDB2A17616700E0BE76 /* Lesson13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13.swift; sourceTree = "<group>"; };
 		33276EDD2A1762F600E0BE76 /* Lesson14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14.swift; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				338697232A458FB3001B37B4 /* Lesson27.swift */,
 				3307EF542A4ECA6500DB33EB /* Lesson29.swift */,
 				3307EF562A4ECBF700DB33EB /* Lesson30.swift */,
+				3307EF582A4ECDE600DB33EB /* Lesson31.swift */,
 			);
 			path = swiftUI_100;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				338697242A458FB3001B37B4 /* Lesson27.swift in Sources */,
 				33288A362A209F36006199EB /* Lesson20.swift in Sources */,
 				3382F2992A0E2B830023086D /* Lesson8.swift in Sources */,
+				3307EF592A4ECDE600DB33EB /* Lesson31.swift in Sources */,
 				339E835D29F27C7800614D32 /* swiftUI_100App.swift in Sources */,
 				33288A3A2A20A875006199EB /* Lesson21ShowMoreView.swift in Sources */,
 				33B9357029FB9AA20091FFB7 /* Lesson2.swift in Sources */,
